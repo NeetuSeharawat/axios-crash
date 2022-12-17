@@ -6,6 +6,8 @@ function getTodos() {
 // POST REQUEST
 function addTodo() {
   console.log('POST Request');
+  console.log('POST Request1');
+
 }
 
 // PUT/PATCH REQUEST
